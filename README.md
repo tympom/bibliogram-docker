@@ -1,3 +1,3 @@
 # bibliogram-docker
 
-Dockerfile for: <git@github.com:tympom/bibliogram-docker.git>
+Dockerfile for: <https://git.sr.ht/~cadence/bibliogram>
