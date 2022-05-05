@@ -3,10 +3,6 @@ name: Docker Image CI
 on:
   workflow_dispatch:
     branches: [ master ]
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
   schedule:
     # At 04:00 on Mondays
     - cron: '0 4 * * 1'
